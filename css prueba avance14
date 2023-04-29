@@ -3,11 +3,54 @@
     background-color: #72c02c;
 }
 
+.columna1 {
+    padding: 25px;
+    margin: 0 10px;
+    color: white;
+    border-style: solid;
+  }
+
+.columna2 {
+        padding: 25px;
+        margin: 0 10px;
+        color: white;
+        border-style: solid;
+}  
+
+.columna3 {
+        padding: 25px;
+        margin: 0 10px;
+        color: white;
+        border-style: solid;
+}
+
+
+
+.columna4 {
+    padding: 25px;
+    margin: 0 10px;
+}
+
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+  .fila::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 .body {
     background-color: #13a000;
     font-family: sans-serif;
     margin: 0;
 }
+
+
 
 .box {
     background-color: #0367a1;
@@ -16,10 +59,24 @@
     border-color: #220abc;
     border-radius: 2px;
     border-top: solid 0px;
-    color:white;
+    color:white;    
+}
+
+.box2 {
+    background-color: #0367a1;
+    height: 25px;
+    width: 250px;
     
-    
-    
+
+}
+.box1 {
+    background-color: #0367a1;
+    border-width: 1px;
+    border-color: #220abc;
+    border-radius: 2px;
+    border-top: solid 0px;
+    color:white;  
+
 }
 
 .pero {
@@ -74,7 +131,7 @@
 }
 
 .h3 {
-    color: #00fc22;
+    color: #0050fc;
 }
 
 .image {
@@ -92,11 +149,6 @@
     width: 500px;
     height: 284px;
 }
-
-
-
-   
-
 
 .header {
         background-color: #037c1a;
@@ -204,7 +256,6 @@
 
 .footer {
    margin: 0;
-
     height: 370px;
     background: url(https://img.freepik.com/foto-gratis/plantas-herramientas-jardineria-cerrar_23-2148905243.jpg);
     background-position: center;
@@ -245,6 +296,7 @@
         background-position: center;
         font-family: sans-serif;
         background-size: cover;
+        background: url(https://media.istockphoto.com/id/1394532585/es/foto/fondo-de-pared-de-hoja-verde.jpg?b=1&s=170667a&w=0&k=20&c=CqkI1OFo7fJyVdFgCZ5PvP7QHYqll90c9zXDgBSdqAI=);
 }
 
 .buttons a:hover {
