@@ -224,7 +224,7 @@
 
 	<section id="trabajo">
     <h4 class="h2s"> Catalogo de nuestros precios respecto a la limpieza de jardin</h4>
-    <div class="trabajo">
+    <div class="trabajo"></div>
     <br>
 
 <!---next-->
@@ -250,8 +250,7 @@
             <img class="img2" src="https://tmisa.cl/wp-content/uploads/2019/11/MANTENCIO%CC%81N-DE-JARDINES.jpg">
             <p class="box2">Precio: $130.000</p>
         </div>
-<!--next-->
-</div>
+
 </div>
 
 
@@ -261,8 +260,7 @@
 <!---next-->    
 
 
-    
-    <section>
+
 
    
 <!----Fin Catalogo limpieza-->
