@@ -1,0 +1,280 @@
+.u-btn-primary {
+    color: #fff;
+    background-color: #72c02c;
+}
+
+.body {
+    background-color: #13a000;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.box {
+    background-color: #0367a1;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #220abc;
+    border-radius: 2px;
+    border-top: solid 0px;
+    color:white;
+    
+    
+    
+}
+
+.pero {
+    color: #ff7b00;
+}
+.caja {
+    background-color: #13b501;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #091dd1;
+    border-radius: 2px;
+    border-top: solid 0px;
+}
+
+.item {
+    color: #72c02c;
+    float: left;
+    padding-left: 22px;
+    box-sizing: border-box;
+}
+.image {
+    width: 900px;
+}
+
+.form {
+    background-color: forestgreen;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.section {
+    flex: 1 1 30%;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #22a105;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out
+}
+
+.h1, h2{
+    margin-top: 0;
+    text-align: center;
+}
+
+.h2s{
+    margin-top: 0;
+    text-align: center;
+    font-family:cursive;
+    color: #001aff;
+}
+
+.h3 {
+    color: #00fc22;
+}
+
+.image {
+    width: 500px;
+
+    
+}
+
+.image1 {
+    width: 500px;
+    height: 283px;
+}
+
+.image2 {
+    width: 500px;
+    height: 284px;
+}
+
+
+
+   
+
+
+.header {
+        background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background: url(https://www.fundacionaquae.org/wp-content/uploads/2022/04/fotosintesis-de-las-plantas.jpg);
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;
+        
+    }
+
+
+.ul {
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    color:black
+}
+.divv {
+    background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background: url(https://agroingeniacanarias.com/wp-content/uploads/2018/10/asesoramiento-en-jardineria-1-1024x768.jpg);
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;
+}
+.hola {
+        background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background: url(https://img.freepik.com/fotos-premium/cultivo-plantas-suelo-fertil-riego-plantas-cultivo-cultivo-ideas_104677-571.jpg);
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;
+}
+
+.trabajo {
+    background: url(https://www.hogarmania.com/archivos/201909/pala-jardin-XxXx80.jpg);
+    background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;
+}
+
+.pi {
+    color: #ffffff;
+    font-family:cursive;
+    
+}
+
+.divv2 {
+    background: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/04/04/5fa43a83202d9.jpeg);
+    background-position: center;
+    font-family: sans-serif;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align:center;
+}
+
+.p {
+    color: #f1f1f1;
+}
+
+.div2 {
+    padding: 10px;
+    text-align:center;
+    background: url(https://www.fundacionaquae.org/wp-content/uploads/2022/04/fotosintesis-de-las-plantas.jpg);
+    background-position: center;
+    font-family: sans-serif;
+    background-size: cover;
+}
+
+.img1 {
+    width: 250px;
+    height: 250px;
+}
+
+.img2 {
+    width: 250px;
+    height: 250px;
+}
+
+.img3 {
+    width: 250px;
+    height: 250px;
+}
+
+.aa{
+    height: 370px;
+    background: url(https://1.bp.blogspot.com/-Ov90XO9up1o/WvP0n1LFuWI/AAAAAAAAB7I/m4eHMMJiVGQsq6XtLvu0SUFcgnaSglimQCLcBGAs/s1600/jardineros.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.footer {
+   margin: 0;
+
+    height: 370px;
+    background: url(https://img.freepik.com/foto-gratis/plantas-herramientas-jardineria-cerrar_23-2148905243.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+
+.buttons {
+    min-width: 700px;
+    display: flex;
+    justify-content: space-around;
+}
+.buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color:#f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: all .4s ease-in-out;
+}
+
+
+.mapa {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;
+}
+
+.buttons a:hover {
+    transform: scale(1.2);
+}
+
+
+
+.image5 {
+    display: flex;
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color:#f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: all .4s ease-in-out;
+}
+
+.jota {
+    text-align: left;
+    margin-top: auto;
+}
+
+
+
+.col-lg{
+    max-width: 33.33333%;
+}
+
