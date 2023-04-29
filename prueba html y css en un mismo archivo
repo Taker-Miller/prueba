@@ -8,21 +8,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Venta De Plantas</title>
+    <title>King Garden</title>
 </head>
 <body style="background-color: #15ba33;">
-    <header style="  background-color: #037c1a;
-    color: rgb(0, 0, 0);
-    padding: 10px;
-    text-align:center;">
+    <header style="
+    background-color: #037c1a;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        text-align:center;
+        background: url(https://www.fundacionaquae.org/wp-content/uploads/2022/04/fotosintesis-de-las-plantas.jpg);
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;">
 		<h1 style="  margin-top: 0;
         text-align: center;">KING GARDEN</h1>
 		<nav>
 			<ul>
 				<li><a href="#inicio">Inicio</a></li>
+                <li><a href="#Consejos">Consejos</a></li>
 				<li><a href="#catalogo">Catálogo de Plantas</a></li>
 				<li><a href="#herramientas">Catálogo de Herramientas de jardin</a></li>
-                <li><a href="#Consejos">Consejos</a></li>
 				<li><a href="#trabajo">Precios de limpieza de jardin</a></li>
 				<li><a href="#contacto">Contacto</a></li>
                 <li><a href="#Ubicacion">Ubicacion</a></li>
@@ -98,55 +103,122 @@
 	</section>
 
     <br>
+    <section id="Consejos">
+        <div>
 
+            <h4 style="margin-top: 0;
+                        text-align: center;
+                        font-family:cursive;
+                        color: #001aff;">Antes que nada, hay que definir el fin del jardín</h4>
+
+            <p style="color: #fcfcfc;
+            font-family:cursive;
+            ">Un jardín puede servir para plantar flores de mil colores, 
+             crear espacios apropiados para el esparcimiento y cultivar hortalizas. 
+             Por eso, desde el principio es necesario definir la función que este va a cumplir y delimitar claramente las áreas destinadas a cada fin.
+             De esa manera tendremos claro qué es lo que queremos y nos será mucho más fácil visualizar el cómo lo construiremos. 
+             Si el presupuesto nos lo permite no está de más contratar los servicios de un paisajista que nos ayude con el diseño. 
+             Así, obtendremos una mezcla perfecta entre colores, 
+             alturas y ubicaciones.</p>
+            <br>
+                <p style="color: #ffffff;
+                font-family:cursive;
+                ">1. Antes de comprar las plantas debemos conocer a fondo las condiciones climáticas 
+                de la zona en la que pretendemos desarrollar nuestro jardín (cálida, desértica, tropical, húmeda, fría, etc.). 
+                De esa manera, al visitar el vivero podremos elegir, con la asesoría 
+                de los profesionales del lugar, flores, matas, hierbas y arbustos que realmente se adaptarán al clima 
+                en que serán sembradas.</p>
+            <br>
+                <p style="color: #ffffff;
+                font-family:cursive;
+                ">2. Uno de los mejores trucos de jardinería consiste en almacenar semillas, tallos y demás en tarros limpios y en sitios secos. 
+                 Así evitamos que germinen por sí solas.</p>
+            <br>
+                <p style="color: #f7f7f7;
+                font-family:cursive;
+                ">3.A la hora de sembrar nuestras plantas debemos tener presente la altura de cada una de ellas, para que al crecer las más altas no priven de la luz a las más chicas causándoles la muerte. 
+                O por el contrario, plantar no considerando el exceso de sol para algunas.</p>
+        </div>
+        
+            
+        <br>
+    </section>
+
+    <br>
+    <br>
     <section id="catalogo">
-		<h2 style="  margin-top: 0;
-        text-align: center;">Catalogo de plantas</h2>
+		<h4 style="margin-top: 0;
+        text-align: center;
+        font-family:cursive;
+        color: #001aff;">Catalogo de plantas</h4>
+        <div style="padding: 10px;
+        text-align:center;
+        background: url(https://www.fundacionaquae.org/wp-content/uploads/2022/04/fotosintesis-de-las-plantas.jpg);
+        background-position: center;
+        font-family: sans-serif;
+        background-size: cover;">
+
+       
 		<ul>
 			<li>
-				<h3>Mioporo</h3>
+				<h3 style="color: #009113;">Mioporo</h3>
                 <img style="width: 250px;
                             height: 250px;" 
                             src="https://www.multiplant.cl/wp-content/uploads/2017/02/Myoporum-acuminatum-Vivero-Multiplant-1200x1693.jpg" alt="Imagen de planta 1">
-				<p>Se puede plantarlo a sol directo a semisombra, no requiere grandes cualidades de suelo. Cuando es joven puede sufrir un poco con la heladas muy intensas, 
+				<p style="color:white">Se puede plantarlo a sol directo a semisombra, no requiere grandes cualidades de suelo. Cuando es joven puede sufrir un poco con la heladas muy intensas, 
                  pero de adulto las resiste muy bien.</p>
 			</li>
 
             <br>
 
 			<li>
-				<h3>Hortencias</h3>
+				<h3 style="color: #009113;">Hortencias</h3>
                 <img style="width: 250px;
                             height: 250px;"    
                             src="https://upload.wikimedia.org/wikipedia/commons/1/16/Hydrangea_macrophylla_-_Bigleaf_hydrangea1.jpg" alt="Imagen de planta 2">
-				<p>Se trata de una planta que necesita vivir en la sombra o en la semisombra, nunca a pleno sol (pero siempre con luz), 
+				<p style="color: white;">Se trata de una planta que necesita vivir en la sombra o en la semisombra, nunca a pleno sol (pero siempre con luz), 
                  ya que esto terminaría amarilleando sus preciosas hojas. ¿Las claves para su cuidado? Plantarla en tierra ácida, 
                  mantenerla siempre húmeda, y podar los macizos de flores que se hayan marchitado.</p>
 			</li>
 
 			<li>
-				<h3>Lavanda</h3>
+				<h3 style="color: #009113;">Lavanda</h3>
                 <img style="width: 250px;
                             height: 250px;" 
                             src="https://www.elicriso.it/es/plantas_aromaticas/lavanda/imagenes/lavandula_angustifolia_P1070046.JPG" alt="Imagen de planta 3">
-				<p>Su embriagante aroma es capaz de relajar hasta la mente más estresada, pero las bondades de la lavanda van más allá. 
+				<p style="color: white;">Su embriagante aroma es capaz de relajar hasta la mente más estresada, pero las bondades de la lavanda van más allá. 
                  Esta planta aromática con flores que oscilan entre el azul y el violeta, es ideal para jardines y patios soleados, ya que se nutre del astro rey. Por si fuera poco, en invierno también resiste como ninguna, 
                  y solo necesita que la riegues un par de veces a la semana.</p>
 			</li>
 		</ul>
+        </div>
 
         <br>
 
         <section id="herramientas">
-            <h2 style="  margin-top: 0;
-            text-align: center;">Catálogo de Herramientas</h2>
+            <h4 style="margin-top: 0;
+            text-align: center;
+            font-family:cursive;
+            color: #001aff;"> Catálogo de Herramientas</h4>
+            <div style=" background-color: #037c1a;
+            color: rgb(0, 0, 0);
+            padding: 10px;
+            text-align:center;
+            background: url(https://agroingeniacanarias.com/wp-content/uploads/2018/10/asesoramiento-en-jardineria-1-1024x768.jpg);
+            background-position: center;
+            font-family: sans-serif;
+            background-size: cover;">
             <ul>
                 <li>
-                    <h3> Tijeron de poda pasto 11"</h3>
+                    <h4 style="margin-top: 0;
+                    text-align: center;
+                    font-family:cursive;
+                    color: #001aff;"> Tijeron de poda pasto 11"</h4>
                     <img style="width: 250px;
                                 height: 250px;"
                                 src="https://sodimac.scene7.com/is/image/SodimacCL/227188_01?wid=1500&hei=1500&qlt=70">
-                    <p>Características destacadas
+
+                    <p style="color:orange">
                         Ancho: 12 cm
                         Alto: 3,5 cm
                         Largo: 35,5 cm
@@ -158,11 +230,14 @@
                 <br>
 
                 <li>
-                    <h3> Barrehojas 22 dientes meta </h3>
+                    <h4 style="margin-top: 0;
+                    text-align: center;
+                    font-family:cursive;
+                    color: #001aff;">Barrehojas 22 dientes meta </h4>
                     <img style="width: 250px;
                                 height: 250px;" 
                                 src="https://sodimac.scene7.com/is/image/SodimacCL/8184_01?wid=1500&hei=1500&qlt=70">
-                    <p>Características destacadas
+                    <p style="color: orange;">
                         Marca: Gili
                         Ancho: 27 cm
                         Alto: 150 cm
@@ -172,11 +247,14 @@
                 <li>
                     <br>
                     <li>
-                        <h3>Rastrillo de acero 40cm</h3>
+                        <h4 style="margin-top: 0;
+                        text-align: center;
+                        font-family:cursive;
+                        color: #001aff;">Rastrillo de acero 40cm</h4>
                         <img style="width: 250px;
                                     height: 250px;"
                                     src="https://sodimac.scene7.com/is/image/SodimacCL/372366_00?wid=1500&hei=1500&qlt=70">
-                        <p> Características destacadas
+                        <p style="color: orange;"> 
                             Marca: Plasmet
                             Ancho: 40 cm
                             Alto: 130 cm
@@ -186,41 +264,7 @@
                         <p>Precio: $15.990</p>
                     </li>
             </ul>
-
-
-        </section>
-
-        <br>
-
-        <section style="margin-top: 0;
-                        text-align: center;">
-            <h2>Antes que nada, hay que definir el fin del jardín</h2>
-            <div>
-                <p> <p>Un jardín puede servir para plantar flores de mil colores, 
-                     crear espacios apropiados para el esparcimiento y cultivar hortalizas. 
-                    Por eso, desde el principio es necesario definir la función que este va a cumplir y delimitar claramente las áreas destinadas a cada fin.
-                    De esa manera tendremos claro qué es lo que queremos y nos será mucho más fácil visualizar el cómo lo construiremos. 
-                    Si el presupuesto nos lo permite no está de más contratar los servicios de un paisajista que nos ayude con el diseño. 
-                    Así, obtendremos una mezcla perfecta entre colores, alturas y ubicaciones.</p>
-                </div>
-                <br>
-
-                <div> <p>
-                    1. Antes de comprar las plantas debemos conocer a fondo las condiciones climáticas 
-                    de la zona en la que pretendemos desarrollar nuestro jardín (cálida, desértica, tropical, húmeda, fría, etc.). 
-                    De esa manera, al visitar el vivero podremos elegir, con la asesoría 
-                    de los profesionales del lugar, flores, matas, hierbas y arbustos que realmente se adaptarán al clima en que serán sembradas.
-                </p></div>
-                <br>
-                <div>
-                    <p>2. Uno de los mejores trucos de jardinería consiste en almacenar semillas, tallos y demás en tarros limpios y en sitios secos. 
-                     Así evitamos que germinen por sí solas.</p>
-                </div>
-                <br>
-                <div>
-                    <p>3. A la hora de sembrar nuestras plantas debemos tener presente la altura de cada una de ellas, para que al crecer las más altas no priven de la luz a las más chicas causándoles la muerte. O por el contrario, plantar no considerando el exceso de sol para algunas.</p>
-                </div>
-                <br>
+        </div>
         </section>
 
         <br>
@@ -228,36 +272,57 @@
 	<section style="margin-top: 0;
                     text-align: center;"
                     id =trabajo>
-                    
-    <h2> Catalogo de nuestros precios respecto a la limpieza de jardin</h2>
-    <br>
 
-    <h3>Podar el jardín</h3>
+<!---Catalogo de jardin-->
+    <h4 style=" margin-top: 0;
+    text-align: center;
+    font-family:cursive;
+    color: #001aff;"> Catalogo de nuestros precios respecto a la limpieza de jardin</h4>
+    <br>
+<div style=" background-color: #037c1a;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align:center;
+    background: url(https://www.hogarmania.com/archivos/201909/pala-jardin-XxXx80.jpg);
+    background-position: center;
+    font-family: sans-serif;
+    background-size: cover;">
+    <h4 style="margin-top: 0;
+    text-align: center;
+    font-family:cursive;
+    color: #001aff;">Podar el jardín</h4>
     <img style="width: 250px;
                 height: 250px;"
                 src="https://static.vecteezy.com/system/resources/previews/006/995/403/non_2x/pruning-bushes-in-the-garden-with-large-garden-shears-photo.jpg">
-    <p>Precio: $10.000</p>
+    <p style="color: white;">Precio: $10.000</p>
 
     <br>
 
-    <h3>Mantencion completa</h3>
+    <h4 style="margin-top: 0;
+    text-align: center;
+    font-family:cursive;
+    color: #001aff;">Mantencion completa</h4>
     <img style="width: 250px;
                 height: 250px;" 
                 src="https://cdn.shopify.com/s/files/1/0269/0619/8058/products/IMAGE_EDIT_e33e4f20-800b-4828-8965-ed730e73ad60.png?v=1647375288">
-    <p>Precio: $130.000</p>
+    <p style="color:white">Precio: $130.000</p>
 
     <br>
 
-    <h3>fumigacion</h3>
+    <h4 style=" margin-top: 0;
+    text-align: center;
+    font-family:cursive;
+    color: #001aff;">fumigacion</h4>
     <img style="width: 250px;
                 height: 250px;"
                 src="https://www.coinve.com/wp-content/uploads/2022/07/fumigar-jardin.jpg">
-    <p>Precio:$15.000</p>
-
+    <p style="color: white;">Precio:$15.000</p>
+    </div>
     <section>
+<!----Fin catalogo jardin-->
 
 
-
+<!----formulario-->
     <section style= "flex: 1 1 30%;
                      margin-bottom: 30px;
                     padding: 20px;
@@ -298,9 +363,10 @@
           <br>
           <button type="submit">Enviar</button>
         </section>
-        
+<!----fin formulario-->
         <br>
-        
+
+<!---Mapa-->
         <div>
             <section style="flex: 1 1 30%;
             margin-bottom: 30px;
@@ -321,18 +387,108 @@
         </div>
 
         <br>
+<!---footer-->
+        <footer style="margin: 0;
+        height: 300px;
+        background: url(https://img.freepik.com/foto-gratis/plantas-herramientas-jardineria-cerrar_23-2148905243.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 0px;
+        font-family: sans-serif;">
 
-        <footer style=  "background-color: black;
-                         width: auto;
-                         height: 160px;">
-            <div class="col-lg">
-                <h2 class="jota">Nosotros</h2>
-                <p>
-                King Garden, Distribuidor Autorizado, comercializa 
-                todo lo que necesita para disfrutar su jardín, 
-                su cuidado, construcción, mantención y control de plagas 
-                y enfermedades en jardines y áreas verdes
-                </p>
+           <div style= "color: #72c02c;
+                        float: left;
+                        padding-left: 22px;
+                        box-sizing: border-box;">
+                <h2>Contacto</h2>
+                <div style="color: #72c02c;
+                             float: left;
+                              padding-left: 22px;
+                                box-sizing: border-box;">
+                    <p>Horario de apertura al público: Sábados, Domingos y Festivos de 12h a 15h. Reservas de espacio: Hasta las 21h00.
+                    <p>Horario de Verano: Sábados, Domingos y Festivos de 19h a 21h. Reservas de espacio: Hasta las 1h00. Julio y Agosto.</p>
+                    <p>Email: sebastian.villalobos26@inacapmail.cl</p>
+                    <p>Teléfono: +34 654 39 48 93</p>
+                </div>
+            </div>
+
+            <div style="color: #72c02c;
+                         float: left;
+                           padding-left: 22px;
+                             box-sizing: border-box;">
+                <h2>Donde Estamos</h2>
+                <div style="color: #72c02c;
+                             float: left;
+                              padding-left: 22px;
+                                box-sizing: border-box;">
+                    <p>Valle Fertil, Cruze Barranquilla</p>
+                </div>
+            </div>
+
+            <div style="color: #72c02c;
+                         float: left;
+                            padding-left: 22px;
+                             box-sizing: border-box;">
+                <h2>Redes Sociales</h2>
+                <div style="color: #72c02c;
+                             float: left;
+                             padding-left: 22px;
+                             box-sizing: border-box;">
+                 <a href="https://www.facebook.com/sebastian.villalobos.39904" class="fa fa-facebook"><img style=" display: flex;
+                    text-decoration: none;
+                    font-size: 28px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    text-align: center;
+                    background: #314652;
+                    color:#f1f1f1;
+                    border-radius: 50%;
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+                    transition: all .4s ease-in-out;" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>
+
+                <a href="https://www.instagram.com/taker_miller/" class="fa fa-instagram"> <img style=" display: flex;
+                    text-decoration: none;
+                    font-size: 28px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    text-align: center;
+                    background: #314652;
+                    color:#f1f1f1;
+                    border-radius: 50%;
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+                    transition: all .4s ease-in-out;" 
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png"></a>
+                
+                <a href="https://www.youtube.com/channel/UCfMlDscGIVIDQcUnUKymRbw" class="fa fa-youtube"><img style=" display: flex;
+                    text-decoration: none;
+                    font-size: 28px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    text-align: center;
+                    background: #314652;
+                    color:#f1f1f1;
+                    border-radius: 50%;
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+                    transition: all .4s ease-in-out;" 
+                    src="https://yt3.googleusercontent.com/ytc/AGIKgqPRVCTEhRVQrADl9rmBCDN7ODyBuwgqZ74AYkqNlw=s900-c-k-c0x00ffffff-no-rj"></a>
+               
+                <a href="https://twitter.com/TakerSeba" class="fa fa-twitter"><img style=" display: flex;
+                    text-decoration: none;
+                    font-size: 28px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    text-align: center;
+                    background: #314652;
+                    color:#f1f1f1;
+                    border-radius: 50%;
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+                    transition: all .4s ease-in-out;"
+                    src="https://store-images.s-microsoft.com/image/apps.45406.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2a88a418-b96d-44a6-ad4f-5e0ee6289b2c"></a>
+                    
             </div>
         </footer>
 
