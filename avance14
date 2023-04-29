@@ -39,8 +39,8 @@
     <br>
 
     <section id="inicio">
-		<h2>¡Bienvenidos a nuestra página de plantas de king garden!</h2>
-		<p>En esta página encontrarás tipo de plantas, herramientas de jardineria y consejos respecto al cuidado de plantas</p>
+		<h4 class="h2s">¡Bienvenidos a nuestra página de plantas de king garden!</h4>
+		<p class="pi">En esta página encontrarás tipo de plantas, herramientas de jardineria y consejos respecto al cuidado de plantas</p>
 		<img class="image"src="https://c.files.bbci.co.uk/121DB/production/_109730247_gettyimages-1094263056-1.jpg" alt="Imagen de inicio">
         <img class="image1" src="https://www.ambientum.com/wp-content/uploads/2021/07/planta-inversiones-PIXABAY-696x463.jpg">
         <img class="image2" src="https://www.ambientum.com/wp-content/uploads/2021/07/suelos-plantas-PIXABAY-696x425.jpg">
@@ -110,33 +110,48 @@
     <section id="catalogo">
 		<h4 class="h2s">Catálogo de Plantas</h4>
         <div class="div2">
-		<ul>
-			<li>
-				<h4 class="h2s">Mioporo</h4>
-                <img class="img1" src="https://www.multiplant.cl/wp-content/uploads/2017/02/Myoporum-acuminatum-Vivero-Multiplant-1200x1693.jpg" alt="Imagen de planta 1">
-				<p class="p">Se puede plantarlo a sol directo a semisombra, no requiere grandes cualidades de suelo. Cuando es joven puede sufrir un poco con la heladas muy intensas, 
-                 pero de adulto las resiste muy bien.</p>
-			</li>
+        <div class="contenedor">
+          
+            <!----next-->
+                <div class="columna1">
+                    <h3 class="h3">Mioporo</h3>
+                    <img class="img1" src="https://www.multiplant.cl/wp-content/uploads/2017/02/Myoporum-acuminatum-Vivero-Multiplant-1200x1693.jpg" alt="Imagen de planta 1">
+                    <p class="box">Precio: $2.000</p>
+                </div>  
+            <!----next-->
 
-            <br>
-
-			<li>
-				<h4 class="h2s">Hortencias</h4>
+            <div class="columna2">
+                <h3 class="h3">Hortencias</h3>
                 <img class="img2" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Hydrangea_macrophylla_-_Bigleaf_hydrangea1.jpg" alt="Imagen de planta 2">
-				<p class="p">Se trata de una planta que necesita vivir en la sombra o en la semisombra, nunca a pleno sol (pero siempre con luz), 
-                 ya que esto terminaría amarilleando sus preciosas hojas. ¿Las claves para su cuidado? Plantarla en tierra ácida, 
-                 mantenerla siempre húmeda, y podar los macizos de flores que se hayan marchitado.</p>
-			</li>
+                <p class="box">Precio: $7.000</p>
+            </div>
 
-			<li>
-				<h4 class="h2s">Lavanda</h4>
+            <!----NEXT-->
+            <div class="columna3">
+                <h3 class="h3">Lavanda</h3>
                 <img class ="img3" src="https://www.elicriso.it/es/plantas_aromaticas/lavanda/imagenes/lavandula_angustifolia_P1070046.JPG" alt="Imagen de planta 3">
-				<p class="p">Su embriagante aroma es capaz de relajar hasta la mente más estresada, pero las bondades de la lavanda van más allá. 
-                 Esta planta aromática con flores que oscilan entre el azul y el violeta, es ideal para jardines y patios soleados, ya que se nutre del astro rey. Por si fuera poco, en invierno también resiste como ninguna, 
-                 y solo necesita que la riegues un par de veces a la semana.</p>
-			</li>
-		</ul>
+                <p class="box">Precio: $5.000</p>
+
+            </div>
+
+            <!---next-->
+            <div class="columna3">
+                <h3 class="h3">Cactus</h3>
+                <img class ="img3" src="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/05/04/6272af13d956f.gif">
+                <p class="box">Precio: $3.500</p>
+            </div>
         </div>
+            <!---next-->
+            
+
+          
+        
+
+        </div>
+            <!---next-->
+
+           
+        <br>
     </section>
 
         <br>
@@ -144,79 +159,122 @@
         <section id="herramientas">
             <h4 class="h2s">Catálogo de Herramientas</h4>
             <div class="divv">
-                <li>
-                    <h3 class="h3"> Tijeron de poda pasto 11"</h3>
-                    <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/227188_01?wid=1500&hei=1500&qlt=70">
-                    <p class="pero">
-                        Ancho: 12 cm
-                        Alto: 3,5 cm
-                        Largo: 35,5 cm
-                        Material: Acero
-                        Color: Negro.</p>
-                        <p class="box">Precio: $23.990</p>
-                </li>
+        <div class="contenedor">
+                <!----next-->
+                    <div class="columna2">
+                        <h3 class="h3"> Tijeron de poda pasto 11"</h3>
+                        <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/227188_01?wid=1500&hei=1500&qlt=70">
+                        <p class="pero">
+                            <li><p>Marca: ERGO</p></li> 
+                            <li><p>Ancho: 12 cm</p></li> 
+                            <li><p>Alto: 3,5 cm</p></li> 
+                            <li><p>Material: Acero</p></li> 
+                            <li><p>Color: Negro</p></li>
+                            <p class="box">Precio: $23.990</p>
+                    </div>  
+                <!----next-->
+                    <div class="columna3">
+                        <h3 class="h3"> Barrehojas 22 dientes meta </h3>
+                        <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/8184_01?wid=1500&hei=1500&qlt=70">
+                        <p class="pero">
 
-                <br>
-
-                <li>
-                    <h3 class="h3"> Barrehojas 22 dientes meta </h3>
-                    <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/8184_01?wid=1500&hei=1500&qlt=70">
-                    <p class="pero">
-                        Marca: Gili
-                        Ancho: 27 cm
-                        Alto: 150 cm
-                        Material: Metal
-                        Material_del_mango: Madera</p>
-                        <p class="box">Precio: $3.990</p>
-                <li>
-                    <br>
-                    <li>
+                            <li><p>Marca: Gili</p></li> 
+                            <li><p>Ancho: 27 cm</p></li> 
+                            <li><p>Alto: 150 cm</p></li> 
+                            <li><p>Material: Metal</p></li> 
+                            <li><p>Material del mango: Madera</p></li>
+                            <p class="box">Precio: $3.990</p>
+                    </div>
+                <!---next-->
+                    <div class="columna1">
                         <h3 class="h3">Rastrillo de acero 40cm</h3>
                         <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/372366_00?wid=1500&hei=1500&qlt=70">
-                        <p class="pero"> Marca: Plasmet
-                            Ancho: 40 cm
-                            Alto: 130 cm
-                            Material: Acero
-                            Material_del_mango: Metal</p>
+                        <div class="columna1">
+                        <p class="pero"> 
+                           <li><p>Marca: Plasmet</p></li> 
+                           <li><p>Ancho: 40 cm</p></li> 
+                           <li><p>Alto: 130 cm</p></li> 
+                           <li><p>Material: Acero</p></li> 
+                           <li><p>Material del mango: Metal</p></li>
                         <p class="box">Precio: $15.990</p>
-                    </li>
-            </ul>
+                    </div>
+                    </div>
+            <!--next-->
+             <div class="columna1">
+                <h3 class="h3">Kit de herramientas de jardín de acero 3 piezas naranjo</h3>
+                <img class="img2" src="https://sodimac.scene7.com/is/image/SodimacCL/1552856_01?wid=1500&hei=1500&qlt=70">
+                <div class="columna1">
+                <p class="pero"> 
+                   <li><p>Marca: Tramontina</p></li> 
+                   <li><p>Garantía: 6 meses</p></li> 
+                   <li><p>Características: Resistente y duradero</p></li> 
+                   <li><p> Condición_del_producto: Nuevo</p></li> 
+                <p class="box2">Precio: $7.690</p>
+            </div>
+            </div>
+                    
         </div>
+            </div>
         </section>
-
+<!---Fin Herramientas-->
         <br>
 
         <br>
+<!---Limpieza trabajo-->
 
 	<section id="trabajo">
     <h4 class="h2s"> Catalogo de nuestros precios respecto a la limpieza de jardin</h4>
-    <br>
     <div class="trabajo">
-    <h4 class="h2s">PODAR EL JARDIN</h4>
-    <img class="img2" src="https://static.vecteezy.com/system/resources/previews/006/995/403/non_2x/pruning-bushes-in-the-garden-with-large-garden-shears-photo.jpg">
-    <p class="box">Precio: $10.000</p>
-
     <br>
 
-    <h4 class="h2s">MANTENCION COMPLETA</h4>
-    <img class="img2" src="https://cdn.shopify.com/s/files/1/0269/0619/8058/products/IMAGE_EDIT_e33e4f20-800b-4828-8965-ed730e73ad60.png?v=1647375288">
-    <p class="box">Precio: $130.000</p>
+<!---next-->
+        
+<!---next-->
+<div class="contenedor">
+    
+    <!----next-->
+        <div class="columna2">
+            <h4 class="h2s">FUMIGACION</h4>
+            <img class="img2" src="https://www.coinve.com/wp-content/uploads/2022/07/fumigar-jardin.jpg">
+            <p class="box">Precio: $50.000</p>
+        </div>  
+    <!----next-->
+        <div class="columna3">
+            <h4 class="h2s">PODAR EL JARDIN</h4>
+            <img class="img2" src="https://static.vecteezy.com/system/resources/previews/006/995/403/non_2x/pruning-bushes-in-the-garden-with-large-garden-shears-photo.jpg">
+            <p class="box">Precio: $20.000</p>
+        </div>
+    <!---next-->
+        <div class="columna1">
+            <h4 class="h2s">MANTENCION COMPLETA</h4>
+            <img class="img2" src="https://tmisa.cl/wp-content/uploads/2019/11/MANTENCIO%CC%81N-DE-JARDINES.jpg">
+            <p class="box2">Precio: $130.000</p>
+        </div>
+<!--next-->
+</div>
+</div>
 
-    <br>
 
-    <h4 class="h2s">FUMIGACION</h4>
-    <img class="img2" src="https://www.coinve.com/wp-content/uploads/2022/07/fumigar-jardin.jpg">
-    <p class="box">Precio:$15.000</p>
-    </div>
+
+
+
+<!---next-->    
+
+
+    
     <section>
+
+   
 <!----Fin Catalogo limpieza-->
         <br>
 
 <!---Contacto-->
     <section class="section" id="contacto">
-        <h2>Contacto</h2>
-        <p>¿Tienes preguntas o comentarios sobre nuestros productos o servicios? No dudes en ponerte en contacto con nosotros.</p>
+        <div class="header">
+        <h4 class="h2s">Contacto</h4>
+        <p class="pi">¿Tienes preguntas o comentarios sobre nuestros productos o servicios? No dudes en ponerte en contacto con nosotros.</p>
         <form class="form">
+            <div class="header">
           <label for="nombre">Nombre:</label>
           <input type="text" id="nombre" name="nombre" placeholder="Ingresa Nombre" required>
           <br>
@@ -233,6 +291,8 @@
           <textarea id="mensaje" name="mensaje"></textarea>
           <br>
           <button type="submit">Enviar</button>
+        </div>
+        </div>
         </section>
 <!---Fin Formulario-->
         <br>
@@ -240,9 +300,10 @@
         <div>
             <section class="Ubicacion" id="Ubicacion">
                 <h4 class="h2s">¡Encuentranos aqui!</h2>
-                <div class="mapa"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3543.413123594076!2d-70.65924602464234!3d-27.362810562160185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9697e3110c44ab7f%3A0xdc8895ef2354daac!2sValle%20Fertil%2C%20Copiap%C3%B3%2C%20Atacama!5e0!3m2!1ses!2scl!4v1682649681397!5m2!1ses!2scl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                <div class="mapa"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3543.413123594076!2d-70.65924602464234!3d-27.362810562160185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9697e3110c44ab7f%3A0xdc8895ef2354daac!2sValle%20Fertil%2C%20Copiap%C3%B3%2C%20Atacama!5e0!3m2!1ses!2scl!4v1682649681397!5m2!1ses!2scl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
                 </div>
+            </div>
             </section>
         </div>
 
