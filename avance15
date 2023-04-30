@@ -54,15 +54,36 @@
 	</header>
     <br>
    
-    <br>
+<!---Inicio-->
 
     <section id="inicio">
-		<h4 class="h2s">¡Bienvenidos a nuestra página de plantas de king garden!</h4>
+    <div class="contenedor">
+        <div class="div2">
+                <div class="columna1">
+		        <h4 class="h2s">¡Bienvenidos a nuestra página de plantas de king garden!</h4>
+            </div>
+                    
+        <div class="columna2">        
 		<p class="pi">En esta página encontrarás tipo de plantas, herramientas de jardineria y consejos respecto al cuidado de plantas.Tienda Online de Plantas de Interior y Exterior en Macetero con Despacho a Domicilio en Todo Copiapo de Chile, tambien hacemos repartos en Paipote, Tierra amarilla, Caldera
         </p>
-		<img class="image"src="https://c.files.bbci.co.uk/121DB/production/_109730247_gettyimages-1094263056-1.jpg" alt="Imagen de inicio">
+        </div>
+        <br>
+    
+        <div class="contenedor">
+            <div class="columna1">
+                <img class="image1" src="https://www.ambientum.com/wp-content/uploads/2021/07/planta-inversiones-PIXABAY-696x463.jpg">
+                </div>
+                <div class="columna2">
+                    <img class="image2" src="https://www.ambientum.com/wp-content/uploads/2021/07/suelos-plantas-PIXABAY-696x425.jpg">
+                </div>            
+        </div>
+    </div>
+
+             
+        
+		<!--<img class="image"src="https://c.files.bbci.co.uk/121DB/production/_109730247_gettyimages-1094263056-1.jpg" alt="Imagen de inicio">
         <img class="image1" src="https://www.ambientum.com/wp-content/uploads/2021/07/planta-inversiones-PIXABAY-696x463.jpg">
-        <img class="image2" src="https://www.ambientum.com/wp-content/uploads/2021/07/suelos-plantas-PIXABAY-696x425.jpg">
+        <img class="image2" src="https://www.ambientum.com/wp-content/uploads/2021/07/suelos-plantas-PIXABAY-696x425.jpg"> -->
 	</section>
     <br>
     <br>
@@ -73,7 +94,8 @@
 
     <section id="Somos">
         <h4 class="h2s">¿QUIENES SOMOS?</h4>
-        <div class="aa">
+        <div class="contenedor">
+        <div class="ul2">
             <p class="pi">King Garden, es una empresa que nace en la ciudad de Copiapó de Chile, con el objetivo de brindar 
                 un servicio de calidad e innovación para la mantención de jardines y áreas verdes.
                 nuestro objetivo es posicionarnos como la empresa líder e ideal a la hora de diseñar, renovar y mantener los jardines 
@@ -83,6 +105,8 @@
                 con la finalidad de mantener una comunicación efectiva y confiable. 
                 Debido a que para nosotros los jardines y clientes es nuestro mayor tesoro.</p>
                 </div>
+            </div>
+           
     <br>
     <br>
     <br>
@@ -91,18 +115,14 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-            
+
     </section>
     <section id="Consejos">
-        <br>
-        <div>
+    <div class="contenedor">
+        <div class="ul3">
             <h4 class="h2s">5 Consejos respecto a la jardineria</h4>
-        </div>
-       <br>
+        
+      
        <div class="hola">
         <div>
             <h4 class="h2s">1. Antes que nada, hay que definir el fin del jardín</h4>
@@ -137,8 +157,10 @@
                     De esa manera fertilizamos de forma natural y promovemos la actividad biológica en el suelo, 
                     obteniendo como resultado plantas más saludables.La misma lógica aplica para las matas que sembramos en macetas.</p>
         </div>
-            
+       </div>
         <br>
+    </div>
+    </div>
     </section>
 
     <br>
@@ -186,8 +208,18 @@
         </div>
             <!---next-->
 
-           
         <br>
+          <br>
+             <br>
+                <br>
+                    <br>
+                        <br>
+                            <br>
+                                <br>
+                                    <br>
+                                        <br>
+                                            <br>
+                                                <br>
     </section>
 
         <br>
@@ -254,7 +286,18 @@
         </section>
 <!---Fin Herramientas-->
         <br>
-
+        <br>
+        <br>
+           <br>
+              <br>
+                  <br>
+                      <br>
+                          <br>
+                              <br>
+                                  <br>
+                                      <br>
+                                          <br>
+                                              <br>
         <br>
 <!---Limpieza trabajo-->
 
@@ -291,6 +334,18 @@
 
 <!----Fin Catalogo limpieza-->
         <br>
+        <br>
+        <br>
+           <br>
+              <br>
+                  <br>
+                      <br>
+                          <br>
+                              <br>
+                                  <br>
+                                      
+                                          
+                                              
 
 <!---Contacto-->
     <section class="section1" id="contacto">
@@ -321,6 +376,18 @@
     
 <!---Fin Formulario-->
         <br>
+        <br>
+        <br>
+           <br>
+              <br>
+                  <br>
+                      <br>
+                          <br>
+                              <br>
+                                  <br>
+                                      <br>
+                                          <br>
+                                              <br>
 <!---Mapa-->
         <div>
             <section class="Ubicacion" id="Ubicacion">
@@ -333,6 +400,18 @@
         </div>
 
         <br>
+        <br>
+        <br>
+           <br>
+              <br>
+                  <br>
+                      <br>
+                          <br>
+                              <br>
+                                  <br>
+                                      
+                                          
+                                              
 <!---Footer-->
         <footer class="footer">
 
