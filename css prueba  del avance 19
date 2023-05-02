@@ -8,7 +8,7 @@
     margin: 0 10px;
     color: white;
     border-style: solid;
-   display: inline-block;
+ 
   }
 
 .columna2 {
@@ -84,7 +84,7 @@
 .box2 {
     background-color: #0367a1;
     height: 25px;
-    width: 250px;
+    width: 360px;
     
 
 }
@@ -170,13 +170,14 @@
     margin-top: 0;
     text-align: center;
     font-family:cursive;
-    color: #ffffff;
+    color: #000000;
     
 }
 
 .h2ss {
-    color:white;
+    color:rgb(0, 0, 0);
     background-color: #047000;
+    background: url(https://previews.123rf.com/images/praweena/praweena1411/praweena141100027/33544608-verdes-ramas-de-fondo-de-arbusto-%C3%A1spera-siam%C3%A9s.jpg);
     border-style: solid;
     border-width: 1px;
     border-color: #001c02;
@@ -184,6 +185,7 @@
     border-top: solid 0px;
     display: block;
     justify-content: center;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .h3 {
@@ -357,7 +359,7 @@ ul li {
 }
 
 .pi {
-    color: #ffffff;
+    color: #3700ff;
     font-family:cursive;
     
 }
@@ -383,8 +385,8 @@ ul li {
 }
 
 .img2 {
-    width: 250px;
-    height: 250px;
+    width: 360px;
+    height: 260px;
 }
 
 .img3 {
