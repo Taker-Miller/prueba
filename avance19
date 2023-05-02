@@ -48,7 +48,7 @@
 <!---Inicio-->
 
 <section id="inicio">
-    <h2 class="h2ss">¡Bienvenidos a nuestra página de plantas de king garden!</h2>
+    <h2 class="h2ss">¡BIENVENIDOS A NUESTRA PAGINA DE KING GARDEN!</h2>
     <div class="contenedor">
         
             <div class="columna1"></div>
@@ -70,7 +70,7 @@
         <h2 class="h2ss">¿QUIENES SOMOS?</h2>
         <div class="contenedor">
         <div class="ul2">
-            <p class="pi">King Garden, es una empresa que nace en la ciudad de Copiapó de Chile, con el objetivo de brindar 
+            <p class="p">King Garden, es una empresa que nace en la ciudad de Copiapó de Chile, con el objetivo de brindar 
                 un servicio de calidad e innovación para la mantención de jardines y áreas verdes.
                 nuestro objetivo es posicionarnos como la empresa líder e ideal a la hora de diseñar, renovar y mantener los jardines 
                 más exigentes de todo Santiago. lograr ser  los primeros en el mercado en ofrecer un servicio integral 
@@ -96,12 +96,12 @@
     <section id="Consejos">
     <div class="contenedor">
         <div class="ul3">
-            <h2 class="h2ss">5 Consejos respecto a la jardineria</h2>
+            <h2 class="h2ss">CONSEJOS RESPECTO A LA JARDINERIA</h2>
         
       
        <div class="hola">
         <div>
-            <h4 class="h2s">1. Antes que nada, hay que definir el fin del jardín</h4>
+            <h4 class="h2s">1. Antes que nada, hay que definir el jardín</h4>
             <p class="pi">Un jardín puede servir para plantar flores de mil colores, 
              crear espacios apropiados para el esparcimiento y cultivar hortalizas. 
              Por eso, desde el principio es necesario definir la función que este va a cumplir y delimitar claramente las áreas destinadas a cada fin.
@@ -331,8 +331,8 @@
 <!---Contacto-->
     <section class="section4" id="contacto">
     
-        <h4 class="h2s">CONTACTO</h4>
-        <p class="pi">¿Tienes preguntas o comentarios sobre nuestros productos o servicios? No dudes en ponerte en contacto con nosotros.</p>
+        <h2 class="h2ss">CONTACTO</h2>
+        <p class="p">¿Tienes preguntas o comentarios sobre nuestros productos o servicios? No dudes en ponerte en contacto con nosotros.</p>
         </div>
         <form class="form">
         
@@ -374,7 +374,7 @@
 <!---Mapa-->
         <div>
             <section class="Ubicacion" id="Ubicacion">
-                <h4 class="h2s">¡ENCUENTRANOS AQUI!</h2>
+                <h2 class="h2ss">¡ENCUENTRANOS AQUI!</h2>
                 <div class="mapa"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3543.413123594076!2d-70.65924602464234!3d-27.362810562160185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9697e3110c44ab7f%3A0xdc8895ef2354daac!2sValle%20Fertil%2C%20Copiap%C3%B3%2C%20Atacama!5e0!3m2!1ses!2scl!4v1682649681397!5m2!1ses!2scl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
                 </div>
